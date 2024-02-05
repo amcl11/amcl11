@@ -8,6 +8,9 @@
 ### Skills:
 - Python, SQL, PostgreSQL, MongoDB, Tableau, ML
 
+### Current Projects:
+- Personal Finance tool (in progress)
+- Spotify chart prediciton model (in progress)
 
 <!---
 amcl11/amcl11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
