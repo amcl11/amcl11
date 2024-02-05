@@ -1,7 +1,7 @@
 ## Hi there, I’m Andrew 👋
 
 ### About Me:
- - Ex Music Industry Exec with a passion for data and discovering data insights to drive businesses forward. 
+ - Former music industry executive with a strong interest in data analysis and a dedication to uncovering insights that advance business objectives.
  - Recently completed Monash University's Data Analytics & Visualisation Bootcamp. 
  - Continued learning via Dataquest.io and personal projects.
 
