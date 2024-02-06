@@ -10,7 +10,7 @@
 
 ### Current Projects:
 - Personal Finance tool (in progress)
-- Spotify chart prediciton model (in progress)
+- Spotify chart analysis (in progress)
 
 <!---
 amcl11/amcl11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
