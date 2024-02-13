@@ -6,7 +6,7 @@
  - Continued learning via Dataquest.io and personal projects.
 
 ### Skills:
-- Python, Pandas, Numpy, Matplotlib, Scikit-learn, SQL, PostgreSQL, MongoDB, Tableau
+- Python, pandas, Numpy, Matplotlib, Scikit-learn, SQL, PostgreSQL, MongoDB, Tableau
 
 ### Current Projects:
 - Personal Finance tool (in progress)
