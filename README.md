@@ -7,8 +7,9 @@
 - Python, pandas, Numpy, Matplotlib, Scikit-learn, SQL, PostgreSQL, MongoDB, Tableau
 
 ### Current Projects:
-- Personal Finance tool (in progress)
-- Streamlit app: Spotify / New Release dashboard (in progress)
+- Streamlit app: Spotify / New Release dashboard (public)
+- Personal Finance tool (private)
+
 
 <!---
 amcl11/amcl11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
