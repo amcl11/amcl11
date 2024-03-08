@@ -3,12 +3,14 @@
  - Recently completed Monash University's Certificate in Data Analytics & Visualisation. 
  - Continued learning via Dataquest.io and personal projects.
 
+### Current Project:
+- AU New Release Tracker
+
 ### Skills:
 - Python, pandas, Numpy, Matplotlib, Scikit-learn, SQL, PostgreSQL, MongoDB, Tableau
 
-### Current Projects:
-- Streamlit app: Spotify / New Release dashboard (public)
-- Personal Finance tool (private)
+
+
 
 
 <!---
