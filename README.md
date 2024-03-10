@@ -4,7 +4,7 @@
  - Continued learning via Dataquest.io and projects.
 
 ### Current Project:
-- AU New Release Tracker
+- AU Spotify Playlist Tracker - [New Music Playlist Tracker](https://new-music-playlist-tracker-c480db72347d.herokuapp.com/)
 
 ### Skills:
 - Python, pandas, Numpy, Matplotlib, Scikit-learn, SQL, PostgreSQL, MongoDB, Tableau
