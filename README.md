@@ -5,6 +5,7 @@
 
 ### Current Project:
 - AU Spotify Playlist Tracker - [New Music Playlist Tracker](https://new-music-playlist-tracker-c480db72347d.herokuapp.com/)
+- Tools: Python, pandas, matplotlib, plotly, spotipy, streamlit, SQLAlchemy, psycopg2, beautifulsoup4, apscheduler, heroku 
 
 ### Skills:
 - Python, pandas, Numpy, Matplotlib, Scikit-learn, SQL, PostgreSQL, MongoDB, Tableau
