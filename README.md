@@ -2,7 +2,7 @@
  - Former music industry executive turned data analyst with a passion for uncovering insights that advance business objectives.
  - Recently completed Monash University's Certificate in Data Analytics & Visualisation. 
  - Continued learning via Dataquest.io and personal projects.
-https://github.com/amcl11/amcl11/blob/main/README.md
+
 ### Current Project:
 - AU Spotify Playlist Tracker - [New Music Playlist Tracker](https://new-music-playlist-tracker-c480db72347d.herokuapp.com/)
 - Tools: `Python` `pandas` `matplotlib` `plotly` `spotipy` `streamlit` `SQLAlchemy` `psycopg2` `beautifulsoup4` `apscheduler` `heroku` 
