@@ -5,7 +5,7 @@
 https://github.com/amcl11/amcl11/blob/main/README.md
 ### Current Project:
 - AU Spotify Playlist Tracker - [New Music Playlist Tracker](https://new-music-playlist-tracker-c480db72347d.herokuapp.com/)
-- Tools: `Python`, `pandas`, `matplotlib`, `plotly`, `spotipy`, `streamlit`, `SQLAlchemy`, `psycopg2`, `beautifulsoup4`, `apscheduler`, `heroku` 
+- Tools: `Python` `pandas` `matplotlib` `plotly` `spotipy` `streamlit` `SQLAlchemy` `psycopg2` `beautifulsoup4` `apscheduler` `heroku` 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
