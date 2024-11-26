@@ -4,8 +4,8 @@
  - Continued learning via Dataquest.io and personal projects.
 
 ### Current Project:
-- AU Spotify Playlist Tracker - [New Music Playlist Tracker](https://new-music-playlist-tracker-c480db72347d.herokuapp.com/)
-- Tools: `Python` `pandas` `matplotlib` `plotly` `spotipy` `streamlit` `SQLAlchemy` `psycopg2` `beautifulsoup4` `apscheduler` `heroku` 
+- Data Cleaning, Engineering, Automation Project.
+- Tools: `openai` `pandas` `pydantic` `tqdm` `duckdb` 
 
 <!---
 amcl11/amcl11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
