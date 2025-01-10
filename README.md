@@ -1,8 +1,3 @@
-### About Me:
- - Music Industry data analyst with a passion for uncovering insights that advance business objectives.
- - Recently completed Monash University's Certificate in Data Analytics & Visualisation. 
- - Continued learning via Dataquest.io and personal projects.
-
 ### Current Project:
 - Data Cleaning, Engineering, Automation Project.
 - Tools: `openai` `pandas` `pydantic` `tqdm` `duckdb` 
